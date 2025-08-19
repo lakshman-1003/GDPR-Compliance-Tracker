@@ -1,7 +1,5 @@
 # ISO 27001 / GDPR Compliance Tracker
 
-A hands-on **GRC project** scaffold tailored for a **Cybersecurity Trainee (Fresher)** role. It lets you map controls to ISO 27001/GDPR, score risks (likelihood × impact), and produce dashboards/reports (heatmap, Excel, KPIs).
-
 ## What’s inside
 - **data/**: CSVs for controls, assets, risks, mappings.
 - **policies/**: Mock policies (Markdown) to simulate an audit trail.
