@@ -1,0 +1,6 @@
+risk_id,asset_id,threat,vulnerability,likelihood,impact,existing_controls,notes
+R-01,AS-01,Data breach,Weak access controls,4,5,A.9,"High-value PII target"
+R-02,AS-02,SQL injection,Insufficient input validation,3,5,A.9;A.12,"Public-facing app"
+R-03,AS-03,Malware infection,Unpatched systems,3,4,A.12,"BYOD risk"
+R-04,AS-01,Data loss,Insufficient backups,2,5,A.12,"Backup policy draft only"
+R-05,AS-02,DDoS,No WAF/Rate limiting,2,4,A.12,"SLA impact risk"

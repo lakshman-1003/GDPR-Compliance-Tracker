@@ -1,0 +1,4 @@
+asset_id,asset_name,owner,category,confidentiality,integrity,availability
+AS-01,Customer Database,DBA,Data,5,5,4
+AS-02,Web Application,Dev Team,Application,4,4,4
+AS-03,Employee Laptops,IT Ops,Endpoint,3,3,3

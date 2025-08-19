@@ -1,0 +1,10 @@
+control_id,requirement,regulation
+A.5,Documented IS Policy,ISO27001
+A.6,Defined Responsibilities,ISO27001
+A.8,Asset Inventory Maintained,ISO27001
+A.9,Access Governance,ISO27001
+A.12,Change/Operations Controls,ISO27001
+A.16,Incident Response Process,ISO27001
+A.9,Data Access Controls,GDPR
+A.5,Privacy by Design,GDPR
+A.8,Records of Processing,GDPR

@@ -1,0 +1,7 @@
+control_id,domain,control_name,description,mandatory,owner,status,evidence_link
+A.5,Information Security Policies,Policies for information security,Define and approve an IS policy,Yes,Security Lead,In Progress,policies/information_security_policy.md
+A.6,Organization of Information Security,Information security roles and responsibilities,Define roles for IS management,Yes,CISO,Implemented,policies/roles_responsibilities.md
+A.8,Asset Management,Information asset inventory,Maintain asset inventory,Yes,IT Ops,In Progress,policies/asset_management_policy.md
+A.9,Access Control,Access control policy,Grant least-privilege access,Yes,IT Ops,Not Started,policies/access_control_policy.md
+A.12,Operations Security,Change management,Manage changes formally,No,DevOps,Implemented,policies/change_management_policy.md
+A.16,Information Security Incident Management,Incident response planning,Plan and manage incidents,Yes,SecOps,In Progress,policies/incident_response_plan.md

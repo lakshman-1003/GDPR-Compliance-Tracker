@@ -1,0 +1,6 @@
+risk_id,asset_id,threat,vulnerability,likelihood,impact,existing_controls,notes,risk_score,risk_level,asset_name,owner,category,confidentiality,integrity,availability
+R-01,AS-01,Data breach,Weak access controls,4,5,A.9,High-value PII target,20,Critical,Customer Database,DBA,Data,5,5,4
+R-02,AS-02,SQL injection,Insufficient input validation,3,5,A.9;A.12,Public-facing app,15,High,Web Application,Dev Team,Application,4,4,4
+R-03,AS-03,Malware infection,Unpatched systems,3,4,A.12,BYOD risk,12,High,Employee Laptops,IT Ops,Endpoint,3,3,3
+R-04,AS-01,Data loss,Insufficient backups,2,5,A.12,Backup policy draft only,10,Medium,Customer Database,DBA,Data,5,5,4
+R-05,AS-02,DDoS,No WAF/Rate limiting,2,4,A.12,SLA impact risk,8,Medium,Web Application,Dev Team,Application,4,4,4
