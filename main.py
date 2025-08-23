@@ -1,7 +1,7 @@
 
 """
 ISO27001/GDPR Compliance Tracker
-Author: Lakshman S (auto-generated scaffold)
+Author: Lakshman S
 Usage:
   python src/main.py
 Outputs:
